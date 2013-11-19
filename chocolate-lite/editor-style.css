@@ -1,0 +1,44 @@
+/*
+Theme Name: zBench
+Used to style the TinyMCE editor.
+*/
+html .mceContentBody{max-width:650px;font-size:13px;font-family:Tahoma,Arial,Helvetica,sans-serif;color:#695c4f;background:#fff;}
+h1,h2,h3,h4,h5,h6{font-weight:bold;}
+h1{font-size:24px;line-height:30px;}
+h2{font-size:20px;line-height:26px;}
+h3{font-size:16px;line-height:24px;}
+h4{font-size:14px;line-height:20px;}
+h5{font-size:14px;line-height:20px;}
+h6{font-size:14px;line-height:20px;}
+small{font-size:10px;line-height:16px;}
+dl{font-size:12px;}
+dt{font-weight:bold;}
+a{color:#ba7500;text-decoration:none;outline:none;}
+a:hover{color:#695c4f;text-decoration:none;}
+fieldset,img{border:none;}
+hr{color:#ddd;background-color:#ddd;height:1px;border:0px;}
+ul,ol{margin:0 30px 18px;}
+li{line-height:18px;}
+hr{display:block;}
+p{line-height:18px;margin:0 0 18px 0;}
+h1,h2,h3,h4,h5,h6{margin:0 0 18px 0;}
+a{color:#ba7500;}
+a:hover{color:#695c4f;text-decoration:underline;}
+img{background:#fff;max-width:650px;height:auto;margin:10px 0;}
+img.attachment-extra-featured-image{margin-top:0;}
+img.wp-smiley{background:transparent;border:none;margin:0;padding:0;}
+.alignleft,img.alignleft{display:inline;float:left;margin:10px 10px 10px 0;}
+.alignright,img.alignright{display:inline;float:right;margin:10px 0 10px 10px;}
+.aligncenter,img.aligncenter{clear:both;display:block;margin:10px auto;}
+table{background:#fff;border:1px solid #ccc;border-width:2px;border-collapse:collapse;margin:5px 0 10px;}
+th,td{border:1px solid #ccc;padding:3px 10px;text-align:left;vertical-align:top;}
+tr.even td{background:#f7f7f7;}
+th{background:#edeff0;}
+blockquote{padding:10px 10px 10px 42px;margin:0 20px 20px;border:1px solid #e3e1d5;background:#f1f0ea url("images/blockquote_bg.png") no-repeat 0 0;}
+code{background:#333;color:#ddd;}
+pre{overflow:auto;width:90%;line-height:16px;color:#555;font-family:"Courier New",FixedSys;font-size:12px;margin:0 0 20px;padding:0 5px 16px;background:#f2f2f2;border:1px solid #e3e1d5;border-left:15px solid #e3e1d5;}
+p.read-more a,p a.more-link{display:inline-block;height:26px;line-height:26px;padding:0 10px;text-decoration:none;color:#7f756c;font-weight:bold;background:#f1f0e9;}
+p.read-more a:hover,p a.more-link:hover{color:#ba7500;}
+.wp-caption{text-align:center;margin-top:10px;margin-bottom:10px;padding:4px;border-radius:3px;background:#fff;border:1px solid #ddd;}
+.wp-caption img{margin:0;padding:0;background:none;}
+.wp-caption-dd,.wp-caption p.wp-caption-text{font-size:12px;line-height:20px;padding:4px 0 0;margin:0;}
