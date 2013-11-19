@@ -1,0 +1,23 @@
+.wp-pagenavi{line-height:22px;height:22px;}
+.wp-pagenavi a {
+	margin:0 2px;
+	padding:0 3px;
+	text-decoration:none;
+}
+.wp-pagenavi a:hover {
+	text-decoration:none;
+}
+.wp-pagenavi span.pages {
+	margin:0 2px;
+	padding:1px 7px 1px 22px !important;
+	padding:1px 7px 1px 22px;
+}
+*+html .wp-pagenavi span.pages {
+	padding:1px 7px 1px 22px !important;
+}
+.wp-pagenavi span.current {
+	padding:0 3px;
+}
+.wp-pagenavi span.extend {
+	padding:0 3px;
+}
