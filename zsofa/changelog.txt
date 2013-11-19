@@ -1,0 +1,26 @@
+1.0.8
+-------------
+* Fix: comments.php && -> &amp;&amp;
+* Fix: Search box in the chrome/ie
+* Fix: wp_list_pages () parameters
+
+1.0.7
+-------------
+* Adding theme-options: Facebook and twitter link-icon manage supported in the theme option page.
+* Change the default date format for post
+* Any details of the changes
+
+1.0.6
+-------------
+* Removed Function: zsofa_recentcomments() and zsofa_hotposts(), Because these features can be added a widgets to achieve.
+* Removed the "loading code from a 3rd party site" in footer.php, If you need to add this code to compatible with ie6, add your own.
+
+1.0.5
+-------------
+* Fixed some bug: e.g Categories overlap...
+* Modify the header style.
+* Modified the css, better compatible with ie
+
+1.0.0 - 1.0.4
+-------------
+No log.
