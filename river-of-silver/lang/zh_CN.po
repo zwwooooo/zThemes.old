@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: River of Silver\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-04 12:42+0800\n"
+"PO-Revision-Date: 2011-05-04 12:43+0800\n"
+"Last-Translator: zwwooooo <zwwblog@gmail.com>\n"
+"Language-Team: schiy & zwwooooo <http://zww.me/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+#: archive.php:41
+#: index.php:28
+msgid "Error 404 - Not Found"
+msgstr "错误 404 - 没有找到"
+
+#: 404.php:7
+#: archive.php:43
+#: index.php:30
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "对不起，没有找到您要的东东，或许下面的内容你感兴趣。"
+
+#: 404.php:8
+msgid "Try searching"
+msgstr "试试搜索"
+
+#: 404.php:10
+#: archive.php:44
+#: footer.php:44
+#: index.php:31
+msgid "Random Posts"
+msgstr "随机文章"
+
+#: 404.php:19
+#: archive.php:53
+#: index.php:40
+msgid "Tag Cloud"
+msgstr "标签云"
+
+#: archive.php:5
+#: header.php:31
+#: page.php:5
+#: single.php:5
+msgid "Home"
+msgstr "首页"
+
+#: archive.php:8
+msgid "Daily Archives"
+msgstr "日存档:"
+
+#: archive.php:10
+msgid "Monthly Archives"
+msgstr "月度存档:"
+
+#: archive.php:12
+msgid "Yearly Archives"
+msgstr "年度存档:"
+
+#: archive.php:14
+msgid "Category Archives"
+msgstr "分类存档:"
+
+#: archive.php:16
+msgid "Tag Archives"
+msgstr "标签存档:"
+
+#: archive.php:18
+msgid "&rsaquo; Blog Archives"
+msgstr "&rsaquo; 博客存档"
+
+#: archive.php:30
+#: index.php:12
+#: single.php:18
+msgid "Edit"
+msgstr "编辑"
+
+#: archive.php:31
+#: index.php:16
+msgid "0 comment"
+msgstr "没有评论 "
+
+#: archive.php:31
+#: index.php:16
+msgid "1 comment"
+msgstr "1条评论"
+
+#: archive.php:31
+#: index.php:16
+msgid "comments"
+msgstr "条评论"
+
+#: archive.php:36
+#: index.php:22
+msgid "&raquo; Read more..."
+msgstr "&raquo; 继续阅读..."
+
+#: archive.php:68
+#: index.php:55
+msgid "&laquo; Previous page"
+msgstr "&laquo; 上一页"
+
+#: archive.php:68
+#: index.php:55
+msgid "Next page &raquo;"
+msgstr "下一页 &raquo;"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这是受保护的文章，输入密码才能查看评论。"
+
+#: comments.php:13
+msgid "Comments."
+msgstr "条评论。"
+
+#: comments.php:13
+msgid "Leave a comment ?"
+msgstr "发表评论？"
+
+#: comments.php:13
+#: index.php:14
+#: single.php:19
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: comments.php:20
+msgid "Comments are closed."
+msgstr "评论关闭。"
+
+#: comments.php:92
+msgid "NOTE - You can use these "
+msgstr "注意 - 你可以用以下 "
+
+#: comments.php:96
+msgid "NAME"
+msgstr "昵称"
+
+#: comments.php:98
+msgid "EMAIL"
+msgstr "邮箱"
+
+#: comments.php:100
+msgid "Website URL"
+msgstr "网址"
+
+#: comments.php:107
+msgid "Leave a Comment"
+msgstr "发表评论"
+
+#: comments.php:108
+#, php-format
+msgid "Reply to %s &not;<br />"
+msgstr "回复给 %s &not;<br />"
+
+#: comments.php:109
+msgid "<small>Cancel reply</small>"
+msgstr "<small>取消回复</small>"
+
+#: comments.php:110
+msgid "SUBMIT"
+msgstr "提交"
+
+#: footer.php:7
+msgid "Recent Comments"
+msgstr "最新评论"
+
+#: footer.php:32
+msgid "Recent Posts"
+msgstr "最新文章"
+
+#: footer.php:56
+msgid "Categories"
+msgstr "分类"
+
+#: footer.php:62
+msgid "Links"
+msgstr "链接"
+
+#: functions.php:4
+msgid "Primary Widget Area"
+msgstr "侧边栏小工具区域"
+
+#: functions.php:6
+msgid "The primary widget area"
+msgstr "侧边栏的小工具区域"
+
+#: functions.php:13
+msgid "Footer Widget Area"
+msgstr "底部小工具区域"
+
+#: functions.php:15
+msgid "The footer widget area"
+msgstr "底部的小工具区域"
+
+#: functions.php:33
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: functions.php:33
+msgid "[edit]"
+msgstr "[编辑]"
+
+#: functions.php:36
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: functions.php:68
+#: index.php:23
+msgid "Continue reading"
+msgstr "继续阅读？"
+
+#: functions.php:137
+msgid "No related posts!"
+msgstr "没有相关文章！"
+
+#: functions.php:145
+msgid "Logo image"
+msgstr "Logo图片地址"
+
+#: functions.php:146
+msgid "Put your logo image address here (max size: 280px*100px). If empty, display blog title with text."
+msgstr "填入logo图片地址（图片限制：280px×100px）。如果为空，则显示文字标题。"
+
+#: functions.php:150
+msgid "RSS URL"
+msgstr "RSS订阅地址"
+
+#: functions.php:151
+msgid "Put your full rss subscribe address here.(with http://). If empty, auto-set system defaults."
+msgstr "填入你的自定义订阅地址。（以http://开头；如果为空，默认会显示wp原生订阅地址。）"
+
+#: functions.php:155
+msgid "Not fixed sidebar"
+msgstr "不固定侧边栏"
+
+#: functions.php:156
+msgid "Canel fixed (left-sidebar), check."
+msgstr "侧边栏默认是固定的，要跟着浏览器滚动请打勾（特别是你想放很多内容在侧边栏时）。"
+
+#: functions.php:160
+msgid "Excerpt?"
+msgstr "显示摘录？"
+
+#: functions.php:161
+msgid "If the home page and archive pages to display excerpt of post, check."
+msgstr "如果首页和存档页的文章显示为摘录，打勾。（中文需要配合摘录插件比较完美，如wp-utf8-excerpt、中文工具箱、wp-kit-cn）"
+
+#: functions.php:165
+msgid "Disable the comment notes"
+msgstr "关闭评论提示"
+
+#: functions.php:166
+msgid "Disabling this will remove the note text that displays with more options for adding to comments (html)."
+msgstr "勾选后移除评论可以使用的（HTML）提示说明。"
+
+#: functions.php:170
+msgid "Disable the comments smilies"
+msgstr "关闭评论表情"
+
+#: functions.php:171
+msgid "Disabling this will remove the comments smilies."
+msgstr "勾选后关闭评论表情。"
+
+#: functions.php:183
+msgid "Theme Options"
+msgstr "主题设置"
+
+#: functions.php:202
+#, php-format
+msgid "%1$s Theme Options"
+msgstr "%1$s 主题设置"
+
+#: functions.php:204
+msgid "Options saved"
+msgstr "设置已保存"
+
+#: functions.php:232
+msgid "Save Options"
+msgstr "保存设置"
+
+#: functions.php:240
+msgid "Donation"
+msgstr "捐赠"
+
+#: functions.php:242
+msgid "If you feel my work is useful and want to support the development of more free resources, you can donate me. Thank you very much!"
+msgstr "如果您觉得我的主题不错、支持更多的免费资源开发，您可以捐赠支持我。非常感谢您！"
+
+#: header.php:35
+msgid "RSS Feed"
+msgstr "RSS 订阅"
+
+#: page.php:7
+msgid "Page"
+msgstr "分页:"
+
+#: page.php:15
+#: single.php:24
+msgid "Pages:"
+msgstr "分页:"
+
+#: searchform.php:2
+msgid "type, hit enter"
+msgstr "站内搜索"
+
+#: searchform.php:3
+msgid "SEARCH"
+msgstr "搜索"
+
+#: sidebar.php:15
+msgid "Copyright"
+msgstr "版权所有"
+
+#: single.php:29
+msgid "Previous"
+msgstr "上一篇"
+
+#: single.php:29
+msgid "Next"
+msgstr "下一篇"
+
+#: single.php:33
+msgid "Related Posts"
+msgstr "相关文章"
+
+#~ msgid "[Top!]"
+#~ msgstr "『置顶』"
+
+#~ msgid "This is a sticky post!"
+#~ msgstr "置顶文章！"
+
+#~ msgid "continue reading?"
+#~ msgstr "继续阅读？"
+
+#~ msgid "Posted by"
+#~ msgstr "作者:"
+
+#~ msgid "on"
+#~ msgstr "日期:"
+
+#~ msgid "None comments"
+#~ msgstr "没有评论"
+
+#~ msgid "Trackbacks and Pingbacks:"
+#~ msgstr "Trackbacks and Pingbacks:"
+
+#~ msgid "Singular Widget Area"
+#~ msgstr "单页小工具区域"
+
+#~ msgid "The singular widget area"
+#~ msgstr "只在单页显示的小工具区域"
+
+#~ msgid "Not Singular Widget Area"
+#~ msgstr "非单页小工具区域"
+
+#~ msgid "Not the singular widget area"
+#~ msgstr "非单页页面显示的小工具区域"
+
+#~ msgid "twitter URL"
+#~ msgstr "twitter地址"
+
+#~ msgid ""
+#~ "Put your full twitter address here.(with http:// , leave it blank for "
+#~ "display none.)"
+#~ msgstr "填入你的twitter地址。（以http://，如果没有保留空白。）"
+
+#~ msgid "facebook URL"
+#~ msgstr "facebook地址"
+
+#~ msgid ""
+#~ "Put your full facebook address here.(with http:// , leave it blank for no "
+#~ "display none.)"
+#~ msgstr "填入你的Facebook地址。（以http://开头，如果没有保留空白。）"
+
+#~ msgid "Follow me on twitter."
+#~ msgstr "Follow me on twitter."
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Go to comments"
+#~ msgstr "查看评论"
+
+#~ msgid "Search by Tags!"
+#~ msgstr "标签云"
+
+#~ msgid "Archives"
+#~ msgstr "存档"
+
+#~ msgid "Meta"
+#~ msgstr "管理"
+
+#~ msgid "(Edit)"
+#~ msgstr "(编辑)"
+
+#~ msgid "Rss Url"
+#~ msgstr "订阅地址"
+
+#~ msgid "Update Options &raquo;"
+#~ msgstr "更新设置 &raquo;"
+
+#~ msgid "Reset Options &raquo;"
+#~ msgstr "恢复默认 &raquo;"
+
+#~ msgid "Disable the comment notes: HTML tags and attributes."
+#~ msgstr "关闭评论 HTML tags and attributes 的提示。"
+
+#~ msgid "Excerpt"
+#~ msgstr "摘录"
+
+#~ msgid "1% comments"
+#~ msgstr "1%条评论 "
+
+#~ msgid "% comments"
+#~ msgstr "1%条评论"
+
+#~ msgid "&nbsp;% comments"
+#~ msgstr "&nbsp;% 条评论"
+
+#, fuzzy
+#~ msgid "z % comments"
+#~ msgstr " % 条评论"
+
+#~ msgid "Please do not load this page directly. Thanks!"
+#~ msgstr "请不要直接加载这个页面。谢谢！"
+
+#~ msgid "404 Error - Not found"
+#~ msgstr "错误 404 - 没有找到"
