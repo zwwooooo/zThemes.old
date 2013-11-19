@@ -1,0 +1,22 @@
+<?php get_header() ?>
+<div id="content">
+		<div class="display-info">
+				<?php if(is_search()) { ?><p>Search query for <strong><?php echo wp_specialchars($s); ?></strong></p><?php } ?>
+		</div>
+		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		<div class="post">
+				<div class="date">
+						<?php the_time('Y-m-d'); ?>
+				</div>
+				<div class="postinfo">
+						<h2><a href="<?php the_permalink() ?>"><?php the_title() ?></a></h2>
+				</div>
+				<div class="postcontent"><?php the_excerpt() ?></div>
+				<div class="commentslink1">In <?php the_category(' ,') ?> / <?php comments_popup_link('0 comments', '1 comment', '% comments'); ?> / <?php if(function_exists('the_views')) { the_views(); } ?> <?php edit_post_link('Edit', '[', ']'); ?></div>
+		</div>
+		<?php endwhile; else: ?>
+		<?php endif; ?>
+		<div id="pagination"><?php posts_nav_link(' &mdash; &mdash; ', __('&larr; Previous page'), __('Next page &rarr;')); ?></div>
+</div><!--content-->
+<?php get_sidebar() ?>
+<?php get_footer() ?>
